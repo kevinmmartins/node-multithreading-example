@@ -9,6 +9,6 @@ docker-compose up
 
 ### Execution result
 
-```json
+```sh
 { 'Running inside worker': 'This is a worker test' }
 ```
